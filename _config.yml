@@ -28,7 +28,7 @@ author:
   pronouns         : #"he/him"  
   bio              : "Lab Manager at Yale University"
   location         : "New Haven, CT"
-  employer         : "Yale University"
+  employer         : #"Yale University"
   uri              : # URL
   email            : "surya.marimuthu@yale.edu" 
 

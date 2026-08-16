@@ -15,6 +15,6 @@ Human learning is remarkably powerful. From understanding the origins of the uni
 
 # Outside Research
 
-In my free time, you can find me playing and watching soccer, basketball (Go Dubs), and football. I love rewatching some of my favorite TV shows like The Wire, Parks and Rec, The Sopranos, and Avatar the Last Airbender. I also enjoy cooking South Indian food for my friends and watching them suffer as they experience real spice for the first time. 
+In my free time, you can find me playing and watching soccer, basketball (Go Dubs), and football. I love rewatching some of my favorite TV shows like *The Wire*, *Parks and Rec*, *The Sopranos*, and *Avatar the Last Airbender*. I also enjoy cooking South Indian food for my friends and watching them suffer as they experience real spice for the first time. 
 
 

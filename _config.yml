@@ -23,7 +23,7 @@ repository               : "suryamarimuthu1/suryamarimuthu1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpg"
+  avatar           : "headshot_large.jpg"
   name             : "Surya Marimuthu"
   pronouns         : #"he/him"  
   bio              : "Lab Manager at Yale University"

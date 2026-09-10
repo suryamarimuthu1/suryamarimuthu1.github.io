@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Surya, and I'm a Lab Manager in the Psychology Department at Yale University, working with [Dr. Julia Leonard](https://www.learninglab.yale.edu/). Before joining Yale, I received my BS in Cognitive Science and BA in Psychology in 2025 from UC Santa Cruz, where I worked with [Dr. Maureen Callanan](https://campusdirectory.ucsc.edu/detail.php?uid=callanan). I also worked in [Dr. Hyowon Gweon's lab](https://sll.stanford.edu/index.html) at Stanford as an undergraduate summer research assistant. 
+Hi! I'm Surya, and I'm a Lab Manager in the Psychology Department at Yale University, working with [Dr. Julia Leonard](https://www.learninglab.yale.edu/). Before joining Yale, I received my BS in Cognitive Science and BA in Psychology in 2025 from UC Santa Cruz, where I worked with [Dr. Maureen Callanan](https://campusdirectory.ucsc.edu/detail.php?uid=callanan). I also worked in [Dr. Hyowon Gweon's lab](https://sll.stanford.edu/index.html) at Stanford as an undergraduate summer intern. 
 
 # Research Interests
 

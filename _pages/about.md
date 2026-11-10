@@ -11,7 +11,7 @@ Hi! I'm Surya, and I'm a Lab Manager in the Psychology Department at Yale Univer
 
 # Research Interests
 
-Human learning is remarkably powerful. From understanding the origins of the universe to building cultural institutions, our ability to learn underlies humanity's countless achievements. Yet learning itself presents a fundamental problem: in a world filled with more information than we could ever acquire, how do learners determine what and how to learn? This problem is especially consequential for children who enter the world surrounded with an abundance of information but have relatively little knowledge about what is worth learning and how much effort to invest. Drawing from approaches in cognitive and developmental science, I aim to uncover the cognitive mechanisms and social factors that shape how children navigate this puzzle. 
+Human learning is remarkably powerful. From discovering the origins of the universe to building cultural institutions, our ability to learn underlies humanity's countless achievements. Yet learning itself presents a fundamental problem: in a world filled with more information than we could ever acquire, how do we determine *what* and *how* to learn? This problem is especially challenging for children who enter the world surrounded with oceans of information but have relatively little knowledge about what is worth learning and how much effort to invest. Drawing from approaches in cognitive and developmental science, I aim to uncover the cognitive mechanisms and social factors that shape how children navigate this puzzle. 
 
 # Outside of Research
 
